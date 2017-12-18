@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/user/stringutil"
+    "github.com/erolkaftanoglu/stringutil"
 )
 func main() {
     fmt.Printf("Hello, world.\n")
